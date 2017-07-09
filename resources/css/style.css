@@ -19,10 +19,10 @@ header h1 {
   margin: 20px;
   padding: 10px;
 }
-.main {
+.main, .mantra {
   opacity: .8;
   background-color: white;
-  width: 500px;
+  width: 600px;
   justify-content: center;
   margin: 10px auto;
   padding: 10px;
