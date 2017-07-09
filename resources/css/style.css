@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+header {
+    background-image: url(../images/harbor-bridge.jpg);
+    height: 600px;
+}
+header a {
+  margin: 10px;
+  justify-content: space-between;
+  color: white;
+}
+header h1 {
+  color: white;
+  font-size: 70px;
+  background-size: auto;
+  border: 3px white solid;
+  margin: 20px;
+  padding: 10px;
+}
